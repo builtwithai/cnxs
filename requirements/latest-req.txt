@@ -1,0 +1,34 @@
+#conda install pytorch torchvision torchaudio cpuonly torchdata torchmetrics pytorch-lightning -c pytorch -y
+basicsr
+black
+chardet
+clip @ git+https://github.com/openai/CLIP.git
+einops
+fairscale
+fire
+fsspec
+invisible-watermark
+kornia
+matplotlib
+natsort
+ninja
+numpy
+omegaconf
+open-clip-torch
+opencv-python
+pandas
+pillow
+pudb
+pyyaml
+scipy
+streamlit
+tensorboardx
+timm
+tokenizers
+transformers
+triton
+urllib3
+wandb
+webdataset
+wheel
+xformers
