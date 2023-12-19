@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import scripts.control_utils as cu
 import torch
 from PIL import Image
